@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><CaptureInfo>
+    <Step StepType="2">
+        <StepData StepSentence="Click in Partner Name box.">
+            <GeneralDetails DialogName="Product Request - Profile  - XXXX​ Edge" URL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1"/>
+            <ControlDetails ControlName="Partner Name" ControlType="42" ControlData="&#10;          " AliasName="Partner Name" ShortCut=""/>
+            <AutomationDetails ApplicationType="12" ApplicationName="Microsoft Edge" Event="Click" ControlName="Partner Name" Role="editable text" ControlData="" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(1)&gt;input[type=text]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[1]/input" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="In the Partner Name box, enter &quot;Testing&quot;.">
+            <GeneralDetails DialogName="Product Request - Profile  - XXXX​ Edge" URL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1"/>
+            <ControlDetails ControlName="Partner Name" ControlType="42" ControlData="Testing" AliasName="Partner Name" ShortCut=""/>
+            <AutomationDetails ApplicationType="12" ApplicationName="Microsoft Edge" Event="TYPETEXT" ControlName="Partner Name" Role="editable text" ControlData="Testing" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(1)&gt;input[type=text]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[1]/input" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="2">
+        <StepData StepSentence="Click in E-mail Address box.">
+            <GeneralDetails DialogName="Product Request - Profile  - XXXX​ Edge" URL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1"/>
+            <ControlDetails ControlName="E-mail Address" ControlType="42" ControlData="&#10;          " AliasName="E-mail Address" ShortCut=""/>
+            <AutomationDetails ApplicationType="12" ApplicationName="Microsoft Edge" Event="Click" ControlName="E-mail Address" Role="editable text" ControlData="" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(2)&gt;input[type=email]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[2]/input" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="In the E-mail Address box, enter &quot;Testing@gmail.com&quot;.">
+            <GeneralDetails DialogName="Product Request - Profile  - XXXX​ Edge" URL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1"/>
+            <ControlDetails ControlName="E-mail Address" ControlType="42" ControlData="Testing@gmail.com" AliasName="E-mail Address" ShortCut=""/>
+            <AutomationDetails ApplicationType="12" ApplicationName="Microsoft Edge" Event="TYPETEXT" ControlName="E-mail Address" Role="editable text" ControlData="Testing@gmail.com" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(2)&gt;input[type=email]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[2]/input" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="2">
+        <StepData StepSentence="Click in Phone number box.">
+            <GeneralDetails DialogName="Product Request - Profile  - XXXX​ Edge" URL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1"/>
+            <ControlDetails ControlName="Phone number" ControlType="42" ControlData="&#10;          " AliasName="Phone number" ShortCut=""/>
+            <AutomationDetails ApplicationType="12" ApplicationName="Microsoft Edge" Event="Click" ControlName="Phone number" Role="editable text" ControlData="" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(3)&gt;input[type=text]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[3]/input" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="In the Phone number box, enter &quot;9876543210&quot;.">
+            <GeneralDetails DialogName="Product Request - Profile  - XXXX​ Edge" URL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1"/>
+            <ControlDetails ControlName="Phone number" ControlType="42" ControlData="9876543210" AliasName="Phone number" ShortCut=""/>
+            <AutomationDetails ApplicationType="12" ApplicationName="Microsoft Edge" Event="TYPETEXT" ControlName="Phone number" Role="editable text" ControlData="9876543210" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(3)&gt;input[type=text]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[3]/input" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Select the License only check box.">
+            <GeneralDetails DialogName="Product Request - Profile  - XXXX​ Edge" URL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1"/>
+            <ControlDetails ControlName="License only" ControlType="44" ControlData="1" AliasName="License only" ShortCut=""/>
+            <AutomationDetails ApplicationType="12" ApplicationName="Microsoft Edge" Event="Select" ControlName="License only" Role="check box" ControlData="1" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(6)&gt;div&gt;div&gt;label" XPath="/html/body/form/div[2]/div[2]/div[2]/div[6]/div/div[1]/label" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Select the Anual maintaince cost check box.">
+            <GeneralDetails DialogName="Product Request - Profile  - XXXX​ Edge" URL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1"/>
+            <ControlDetails ControlName="Anual maintaince cost" ControlType="44" ControlData="1" AliasName="Anual maintaince cost" ShortCut=""/>
+            <AutomationDetails ApplicationType="12" ApplicationName="Microsoft Edge" Event="Select" ControlName="Anual maintaince cost" Role="check box" ControlData="1" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(6)&gt;div&gt;div&gt;label" XPath="/html/body/form/div[2]/div[2]/div[2]/div[6]/div/div[2]/label" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Select Immediate.">
+            <GeneralDetails DialogName="Product Request - Profile  - XXXX​ Edge" URL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1"/>
+            <ControlDetails ControlName="Immediate" ControlType="45" ControlData="1" AliasName="Immediate" ShortCut=""/>
+            <AutomationDetails ApplicationType="12" ApplicationName="Microsoft Edge" Event="Select" ControlName="Immediate" Role="radio button" ControlData="1" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(7)&gt;div&gt;div&gt;label" XPath="/html/body/form/div[2]/div[2]/div[2]/div[7]/div/div[1]/label" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Select Credit (more than 45 days).">
+            <GeneralDetails DialogName="Product Request - Profile  - XXXX​ Edge" URL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1"/>
+            <ControlDetails ControlName="Credit (more than 45 days)" ControlType="45" ControlData="1" AliasName="Credit (more than 45 days)" ShortCut=""/>
+            <AutomationDetails ApplicationType="12" ApplicationName="Microsoft Edge" Event="Select" ControlName="Credit (more than 45 days)" Role="radio button" ControlData="1" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(7)&gt;div&gt;div:nth-child(3)&gt;label" XPath="/html/body/form/div[2]/div[2]/div[2]/div[7]/div/div[3]/label" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="2">
+        <StepData StepSentence="Click to drop down the Product List list.">
+            <GeneralDetails DialogName="Product Request - Profile  - XXXX​ Edge" URL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1"/>
+            <ControlDetails ControlName="Product List" ControlType="46" ControlData="&#10;          " AliasName="Product List" ShortCut=""/>
+            <AutomationDetails ApplicationType="12" ApplicationName="Microsoft Edge" Event="Click" ControlName="--Select Product--" Role="combo box" ControlData="" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(3)&gt;div&gt;div:nth-child(4)&gt;select" XPath="/html/body/form/div[2]/div[3]/div[2]/div[4]/select" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="In the Product List list, select ERP Ultimate Edition.">
+            <GeneralDetails DialogName="Product Request - Profile  - XXXX​ Edge" URL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1"/>
+            <ControlDetails ControlName="Product List" ControlType="34" ControlData="ERP Ultimate Edition" AliasName="Product List" ShortCut=""/>
+            <AutomationDetails ApplicationType="12" ApplicationName="Microsoft Edge" Event="Click" ControlName="Product List" Role="list item" ControlData="ERP Ultimate Edition" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(3)&gt;div&gt;div:nth-child(4)&gt;select" XPath="/html/body/form/div[2]/div[3]/div[2]/div[4]/select" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Click Send Order.">
+            <GeneralDetails DialogName="Product Request - Profile  - XXXX​ Edge" URL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1"/>
+            <ControlDetails ControlName="Send Order" ControlType="43" ControlData="&#10;          " AliasName="Send Order" ShortCut=""/>
+            <AutomationDetails ApplicationType="12" ApplicationName="Microsoft Edge" Event="Click" ControlName="Send Order" Role="push button" ControlData="" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(5)&gt;button" XPath="/html/body/form/div[2]/div[5]/button" Class=""/>
+        </StepData>
+    </Step>
+</CaptureInfo>

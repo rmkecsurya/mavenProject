@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><CaptureInfo>
+    <Step StepType="2">
+        <StepData StepSentence="Untitled - Notepad screen is displayed.">
+            <AutomationDetails StepSentence="Untitled - Notepad screen is displayed." WindowTitle="Untitled - Notepad" ApplicationPath="C:\WINDOWS\SYSTEM32" ExeName="notepad.exe" Url="" Event="WindowActivate" ControlName="" Role="client" Parent="" ControlData="" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Click Maximize.">
+            <AutomationDetails StepSentence="Click Maximize." WindowTitle="Untitled - Notepad" ApplicationPath="C:\WINDOWS\SYSTEM32" ExeName="notepad.exe" Url="" Event="Click" ControlName="Maximize" Role="push button" Parent="" ControlData="Maximize" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="On the menu click File or press Alt+f.">
+            <AutomationDetails StepSentence="On the menu click File or press Alt+f." WindowTitle="Untitled - Notepad" ApplicationPath="C:\WINDOWS\SYSTEM32" ExeName="notepad.exe" Url="" Event="Select" ControlName="File" Role="menu item" Parent="Application" ControlData="File" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="On the menu click Page Setup... or press u.">
+            <AutomationDetails StepSentence="On the menu click Page Setup... or press u." WindowTitle="Untitled - Notepad" ApplicationPath="C:\WINDOWS\SYSTEM32" ExeName="notepad.exe" Url="" Event="Select" ControlName="Page Setup..." Role="menu item" Parent="File" ControlData="Page Setup..." TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="2">
+        <StepData StepSentence="Page Setup screen is displayed.">
+            <AutomationDetails StepSentence="Page Setup screen is displayed." WindowTitle="Page Setup" ApplicationPath="C:\WINDOWS\SYSTEM32" ExeName="notepad.exe" Url="" Event="WindowActivate" ControlName="" Role="client" Parent="" ControlData="" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="2">
+        <StepData StepSentence="Click to drop down the Size list.">
+            <AutomationDetails StepSentence="Click to drop down the Size list." WindowTitle="Page Setup" ApplicationPath="C:\WINDOWS\SYSTEM32" ExeName="notepad.exe" Url="" Event="Click" ControlName="Size:" Role="combo box" Parent="Page Setup" ControlData="Letter" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="In the Size list, select Tabloid.">
+            <AutomationDetails StepSentence="In the Size list, select Tabloid." WindowTitle="Page Setup" ApplicationPath="C:\WINDOWS\SYSTEM32" ExeName="notepad.exe" Url="" Event="Select" ControlName="Tabloid" Role="list item" Parent="Size:" ControlData="Tabloid" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Select Landscape.">
+            <AutomationDetails StepSentence="Select Landscape." WindowTitle="Page Setup" ApplicationPath="C:\WINDOWS\SYSTEM32" ExeName="notepad.exe" Url="" Event="Select" ControlName="Landscape" Role="radio button" Parent="Page Setup" ControlData="1" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Click OK.">
+            <AutomationDetails StepSentence="Click OK." WindowTitle="Page Setup" ApplicationPath="C:\WINDOWS\SYSTEM32" ExeName="notepad.exe" Url="" Event="Click" ControlName="OK" Role="push button" Parent="Page Setup" ControlData="OK" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="2">
+        <StepData StepSentence="Word screen is displayed.">
+            <AutomationDetails StepSentence="Word screen is displayed." WindowTitle="Word" ApplicationPath="C:\PROGRAM FILES\MICROSOFT OFFICE\ROOT\OFFICE16" ExeName="winword.exe" Url="" Event="WindowActivate" ControlName="" Role="client" Parent="" ControlData="" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="In the Blank document list, select Blank document.">
+            <AutomationDetails StepSentence="In the Blank document list, select Blank document." WindowTitle="Word" ApplicationPath="C:\PROGRAM FILES\MICROSOFT OFFICE\ROOT\OFFICE16" ExeName="winword.exe" Url="" Event="Click" ControlName="Blank document" Role="list item" Parent="" ControlData="Blank document" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="2">
+        <StepData StepSentence="Document1 [Compatibility Mode] - Word screen is displayed.">
+            <AutomationDetails StepSentence="Document1 [Compatibility Mode] - Word screen is displayed." WindowTitle="Document1 [Compatibility Mode] - Word" ApplicationPath="C:\PROGRAM FILES\MICROSOFT OFFICE\ROOT\OFFICE16" ExeName="winword.exe" Url="" Event="WindowActivate" ControlName="" Role="client" Parent="" ControlData="" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Select the Layout tab.">
+            <AutomationDetails StepSentence="Select the Layout tab." WindowTitle="Document1 [Compatibility Mode] - Word" ApplicationPath="C:\PROGRAM FILES\MICROSOFT OFFICE\ROOT\OFFICE16" ExeName="winword.exe" Url="" Event="Select" ControlName="Layout" Role="page tab" Parent="" ControlData="Layout" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Select the View tab.">
+            <AutomationDetails StepSentence="Select the View tab." WindowTitle="Document1 [Compatibility Mode] - Word" ApplicationPath="C:\PROGRAM FILES\MICROSOFT OFFICE\ROOT\OFFICE16" ExeName="winword.exe" Url="" Event="Select" ControlName="View" Role="page tab" Parent="" ControlData="View" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Click File Tab.">
+            <AutomationDetails StepSentence="Click File Tab." WindowTitle="Document1 [Compatibility Mode] - Word" ApplicationPath="C:\PROGRAM FILES\MICROSOFT OFFICE\ROOT\OFFICE16" ExeName="winword.exe" Url="" Event="Click" ControlName="File Tab" Role="push button" Parent="Ribbon" ControlData="File Tab" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="In the File list, select Options.">
+            <AutomationDetails StepSentence="In the File list, select Options." WindowTitle="Document1 [Compatibility Mode] - Word" ApplicationPath="C:\PROGRAM FILES\MICROSOFT OFFICE\ROOT\OFFICE16" ExeName="winword.exe" Url="" Event="Select" ControlName="Options" Role="list item" Parent="File" ControlData="Options" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="2">
+        <StepData StepSentence="Word Options screen is displayed.">
+            <AutomationDetails StepSentence="Word Options screen is displayed." WindowTitle="Word Options" ApplicationPath="C:\PROGRAM FILES\MICROSOFT OFFICE\ROOT\OFFICE16" ExeName="winword.exe" Url="" Event="WindowActivate" ControlName="" Role="client" Parent="" ControlData="" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Select the Always use these values regardless of sign in to Office. check box.">
+            <AutomationDetails StepSentence="Select the Always use these values regardless of sign in to Office. check box." WindowTitle="Word Options" ApplicationPath="C:\PROGRAM FILES\MICROSOFT OFFICE\ROOT\OFFICE16" ExeName="winword.exe" Url="" Event="Select" ControlName="Always use these values regardless of sign in to Office." Role="check box" Parent="Personalize your copy of Microsoft Office" ControlData="1" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="In the Save list, select Save.">
+            <AutomationDetails StepSentence="In the Save list, select Save." WindowTitle="Word Options" ApplicationPath="C:\PROGRAM FILES\MICROSOFT OFFICE\ROOT\OFFICE16" ExeName="winword.exe" Url="" Event="Click" ControlName="Save" Role="list item" Parent="" ControlData="Save" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Select the Save to Computer by default check box.">
+            <AutomationDetails StepSentence="Select the Save to Computer by default check box." WindowTitle="Word Options" ApplicationPath="C:\PROGRAM FILES\MICROSOFT OFFICE\ROOT\OFFICE16" ExeName="winword.exe" Url="" Event="Select" ControlName="Save to Computer by default" Role="check box" Parent="Save documents" ControlData="1" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="In the General list, select General.">
+            <AutomationDetails StepSentence="In the General list, select General." WindowTitle="Word Options" ApplicationPath="C:\PROGRAM FILES\MICROSOFT OFFICE\ROOT\OFFICE16" ExeName="winword.exe" Url="" Event="Click" ControlName="General" Role="list item" Parent="" ControlData="General" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Click to clear the Show Mini Toolbar on selection check box.">
+            <AutomationDetails StepSentence="Click to clear the Show Mini Toolbar on selection check box." WindowTitle="Word Options" ApplicationPath="C:\PROGRAM FILES\MICROSOFT OFFICE\ROOT\OFFICE16" ExeName="winword.exe" Url="" Event="Select" ControlName="Show Mini Toolbar on selection" Role="check box" Parent="User Interface options" ControlData="0" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Click Cancel.">
+            <AutomationDetails StepSentence="Click Cancel." WindowTitle="Word Options" ApplicationPath="C:\PROGRAM FILES\MICROSOFT OFFICE\ROOT\OFFICE16" ExeName="winword.exe" Url="" Event="Click" ControlName="Cancel" Role="push button" Parent="Word Options" ControlData="Cancel" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="2">
+        <StepData StepSentence="Untitled - Notepad screen is displayed.">
+            <AutomationDetails StepSentence="Untitled - Notepad screen is displayed." WindowTitle="Untitled - Notepad" ApplicationPath="C:\WINDOWS\SYSTEM32" ExeName="notepad.exe" Url="" Event="WindowActivate" ControlName="" Role="client" Parent="" ControlData="" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="On the menu click Help or press Alt+h.">
+            <AutomationDetails StepSentence="On the menu click Help or press Alt+h." WindowTitle="Untitled - Notepad" ApplicationPath="C:\WINDOWS\SYSTEM32" ExeName="notepad.exe" Url="" Event="Select" ControlName="Help" Role="menu item" Parent="Application" ControlData="Help" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="On the menu click About Notepad or press a.">
+            <AutomationDetails StepSentence="On the menu click About Notepad or press a." WindowTitle="Untitled - Notepad" ApplicationPath="C:\WINDOWS\SYSTEM32" ExeName="notepad.exe" Url="" Event="Select" ControlName="About Notepad" Role="menu item" Parent="Help" ControlData="About Notepad" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="2">
+        <StepData StepSentence="About Notepad screen is displayed.">
+            <AutomationDetails StepSentence="About Notepad screen is displayed." WindowTitle="About Notepad" ApplicationPath="C:\WINDOWS\SYSTEM32" ExeName="notepad.exe" Url="" Event="WindowActivate" ControlName="" Role="client" Parent="" ControlData="" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Click OK.">
+            <AutomationDetails StepSentence="Click OK." WindowTitle="About Notepad" ApplicationPath="C:\WINDOWS\SYSTEM32" ExeName="notepad.exe" Url="" Event="Click" ControlName="OK" Role="push button" Parent="About Notepad" ControlData="OK" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="2">
+        <StepData StepSentence="Untitled - Notepad screen is displayed.">
+            <AutomationDetails StepSentence="Untitled - Notepad screen is displayed." WindowTitle="Untitled - Notepad" ApplicationPath="C:\WINDOWS\SYSTEM32" ExeName="notepad.exe" Url="" Event="WindowActivate" ControlName="" Role="client" Parent="" ControlData="" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+</CaptureInfo>

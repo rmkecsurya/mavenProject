@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><CaptureInfo>
+    <Step StepType="0">
+        <StepData StepSentence="On the menu click File or press Alt+f.">
+            <GeneralDetails DialogName="Untitled - Notepad" URL=""/>
+            <ControlDetails ControlName="File" ControlType="12" ControlData="File" AliasName="File" ShortCut="Alt+f"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Notepad" Event="Select" ControlName="File" Role="menu item" ControlData="File" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="On the menu click Page Setup... or press u.">
+            <GeneralDetails DialogName="Untitled - Notepad" URL=""/>
+            <ControlDetails ControlName="Page Setup..." ControlType="12" ControlData="Page Setup..." AliasName="Page Setup..." ShortCut="u"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Notepad" Event="Select" ControlName="Page Setup..." Role="menu item" ControlData="Page Setup..." TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="2">
+        <StepData StepSentence="Click to drop down the Size list.">
+            <GeneralDetails DialogName="Page Setup" URL=""/>
+            <ControlDetails ControlName="Size:" ControlType="46" ControlData="Letter" AliasName="Size:" ShortCut="Alt+z"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Notepad" Event="Click" ControlName="Size:" Role="combo box" ControlData="Letter" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="In the Size list, select Statement.">
+            <GeneralDetails DialogName="Page Setup" URL=""/>
+            <ControlDetails ControlName="Size:" ControlType="34" ControlData="Statement" AliasName="Size:" ShortCut=""/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Notepad" Event="Select" ControlName="Statement" Role="list item" ControlData="Statement" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Select Landscape.">
+            <GeneralDetails DialogName="Page Setup" URL=""/>
+            <ControlDetails ControlName="Landscape" ControlType="45" ControlData="1" AliasName="Landscape" ShortCut="Alt+a"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Notepad" Event="Select" ControlName="Landscape" Role="radio button" ControlData="1" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Select Portrait.">
+            <GeneralDetails DialogName="Page Setup" URL=""/>
+            <ControlDetails ControlName="Portrait" ControlType="45" ControlData="1" AliasName="Portrait" ShortCut="Alt+o"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Notepad" Event="Select" ControlName="Portrait" Role="radio button" ControlData="1" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="2">
+        <StepData StepSentence="Click in Header box.">
+            <GeneralDetails DialogName="Page Setup" URL=""/>
+            <ControlDetails ControlName="Header:" ControlType="42" ControlData="" AliasName="Header:" ShortCut="Alt+h"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Notepad" Event="Click" ControlName="Header:" Role="editable text" ControlData="" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="In the Header box, enter &quot;Testing Text&quot;.">
+            <GeneralDetails DialogName="Page Setup" URL=""/>
+            <ControlDetails ControlName="Header:" ControlType="42" ControlData="Testing Text" AliasName="Header:" ShortCut="Alt+h"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Notepad" Event="TYPETEXT" ControlName="Header:" Role="editable text" ControlData="Testing Text" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="2">
+        <StepData StepSentence="Click in Footer box.">
+            <GeneralDetails DialogName="Page Setup" URL=""/>
+            <ControlDetails ControlName="Footer:" ControlType="42" ControlData="" AliasName="Footer:" ShortCut="Alt+f"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Notepad" Event="Click" ControlName="Footer:" Role="editable text" ControlData="" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="In the Footer box, enter &quot;Testing Text&quot;.">
+            <GeneralDetails DialogName="Page Setup" URL=""/>
+            <ControlDetails ControlName="Footer:" ControlType="42" ControlData="Testing Text" AliasName="Footer:" ShortCut="Alt+f"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Notepad" Event="TYPETEXT" ControlName="Footer:" Role="editable text" ControlData="Testing Text" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Click Cancel.">
+            <GeneralDetails DialogName="Page Setup" URL=""/>
+            <ControlDetails ControlName="Cancel" ControlType="43" ControlData="Cancel" AliasName="Cancel" ShortCut=""/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Notepad" Event="Click" ControlName="Cancel" Role="push button" ControlData="Cancel" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="On the menu click Edit or press Alt+e.">
+            <GeneralDetails DialogName="Untitled - Notepad" URL=""/>
+            <ControlDetails ControlName="Edit" ControlType="12" ControlData="Edit" AliasName="Edit" ShortCut="Alt+e"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Notepad" Event="Select" ControlName="Edit" Role="menu item" ControlData="Edit" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="On the menu click Replace... Ctrl+H or press r.">
+            <GeneralDetails DialogName="Untitled - Notepad" URL=""/>
+            <ControlDetails ControlName="Replace... Ctrl+H" ControlType="12" ControlData="Replace... Ctrl+H" AliasName="Replace... Ctrl+H" ShortCut="r"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Notepad" Event="Select" ControlName="Replace...\tCtrl+H" Role="menu item" ControlData="Replace... Ctrl+H" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Click to clear the Match case check box.">
+            <GeneralDetails DialogName="Replace" URL=""/>
+            <ControlDetails ControlName="Match case" ControlType="44" ControlData="0" AliasName="Match case" ShortCut="Alt+c"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Notepad" Event="Select" ControlName="Match case" Role="check box" ControlData="0" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Click to clear the Wrap around check box.">
+            <GeneralDetails DialogName="Replace" URL=""/>
+            <ControlDetails ControlName="Wrap around" ControlType="44" ControlData="0" AliasName="Wrap around" ShortCut="Alt+r"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Notepad" Event="Select" ControlName="Wrap around" Role="check box" ControlData="0" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Click Cancel.">
+            <GeneralDetails DialogName="Replace" URL=""/>
+            <ControlDetails ControlName="Cancel" ControlType="43" ControlData="Cancel" AliasName="Cancel" ShortCut=""/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Notepad" Event="Click" ControlName="Cancel" Role="push button" ControlData="Cancel" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+</CaptureInfo>

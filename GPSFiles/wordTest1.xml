@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><CaptureInfo>
+    <Step StepType="0">
+        <StepData StepSentence="Select the View tab.">
+            <GeneralDetails DialogName="XBRACKETX - Word" URL=""/>
+            <ControlDetails ControlName="View" ControlType="37" ControlData="View" AliasName="View" ShortCut="Alt+ W"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Microsoft Word" Event="Select" ControlName="View" Role="page tab" ControlData="View" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Select the Mailings tab.">
+            <GeneralDetails DialogName="XBRACKETX - Word" URL=""/>
+            <ControlDetails ControlName="Mailings" ControlType="37" ControlData="Mailings" AliasName="Mailings" ShortCut="Alt+ M"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Microsoft Word" Event="Select" ControlName="Mailings" Role="page tab" ControlData="Mailings" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Select the Design tab.">
+            <GeneralDetails DialogName="XBRACKETX - Word" URL=""/>
+            <ControlDetails ControlName="Design" ControlType="37" ControlData="Design" AliasName="Design" ShortCut="Alt+ G"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Microsoft Word" Event="Select" ControlName="Design" Role="page tab" ControlData="Design" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Click File Tab.">
+            <GeneralDetails DialogName="XBRACKETX - Word" URL=""/>
+            <ControlDetails ControlName="File Tab" ControlType="43" ControlData="File Tab" AliasName="File Tab" ShortCut="Alt+ F"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Microsoft Word" Event="Click" ControlName="File Tab" Role="push button" ControlData="File Tab" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="In the File list, select Options.">
+            <GeneralDetails DialogName="XBRACKETX - Word" URL=""/>
+            <ControlDetails ControlName="File" ControlType="34" ControlData="Options" AliasName="File" ShortCut=""/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Microsoft Word" Event="Select" ControlName="Options" Role="list item" ControlData="Options" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Select the Always use these values regardless of sign in to Office. check box.">
+            <GeneralDetails DialogName="Word Options" URL=""/>
+            <ControlDetails ControlName="Always use these values regardless of sign in to Office." ControlType="44" ControlData="1" AliasName="Always use these values regardless of sign in to Office." ShortCut="ALT+A"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Microsoft Word" Event="Select" ControlName="Always use these values regardless of sign in to Office." Role="check box" ControlData="1" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="In the Save list, select Save.">
+            <GeneralDetails DialogName="Word Options" URL=""/>
+            <ControlDetails ControlName="Save" ControlType="34" ControlData="Save" AliasName="Save" ShortCut=""/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Microsoft Word" Event="Click" ControlName="Save" Role="list item" ControlData="Save" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Select the Save to Computer by default check box.">
+            <GeneralDetails DialogName="Word Options" URL=""/>
+            <ControlDetails ControlName="Save to Computer by default" ControlType="44" ControlData="1" AliasName="Save to Computer by default" ShortCut="ALT+C"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Microsoft Word" Event="Select" ControlName="Save to Computer by default" Role="check box" ControlData="1" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Click Cancel.">
+            <GeneralDetails DialogName="Word Options" URL=""/>
+            <ControlDetails ControlName="Cancel" ControlType="43" ControlData="Cancel" AliasName="Cancel" ShortCut=""/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Microsoft Word" Event="Click" ControlName="Cancel" Role="push button" ControlData="Cancel" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+</CaptureInfo>

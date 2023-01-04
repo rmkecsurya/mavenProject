@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><CaptureInfo>
+    <Step StepType="2">
+        <StepData StepSentence="New Tab - Google Chrome screen is displayed.">
+            <AutomationDetails StepSentence="New Tab - Google Chrome screen is displayed." WindowTitle="New Tab - Google Chrome" ApplicationPath="C:\PROGRAM FILES\GOOGLE\CHROME\APPLICATION" ExeName="chrome.exe" Url="" Event="WindowActivate" ControlName="Product Request" Role="client" Parent="" ControlData="" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Click Product Request link.">
+            <AutomationDetails StepSentence="Click Product Request link." WindowTitle="New Tab - Google Chrome" ApplicationPath="C:\PROGRAM FILES\GOOGLE\CHROME\APPLICATION" ExeName="chrome.exe" Url="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Event="Click" ControlName="Product Request" Role="link" Parent="" ControlData="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="2">
+        <StepData StepSentence="Product Request - Google Chrome screen is displayed.">
+            <AutomationDetails StepSentence="Product Request - Google Chrome screen is displayed." WindowTitle="Product Request - Google Chrome" ApplicationPath="C:\PROGRAM FILES\GOOGLE\CHROME\APPLICATION" ExeName="chrome.exe" Url="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Event="WindowActivate" ControlName="" Role="client" Parent="" ControlData="" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="2">
+        <StepData StepSentence="Click in Partner Name box.">
+            <AutomationDetails StepSentence="Click in Partner Name box." WindowTitle="Product Request - Google Chrome" ApplicationPath="C:\PROGRAM FILES\GOOGLE\CHROME\APPLICATION" ExeName="chrome.exe" Url="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Event="Click" ControlName="Partner Name" Role="editable text" Parent="" ControlData="" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(1)&gt;input[type=text]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[1]/input" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="In the Partner Name box, enter &quot;hello&quot;.">
+            <AutomationDetails StepSentence="In the Partner Name box, enter &quot;hello&quot;." WindowTitle="Product Request - Google Chrome" ApplicationPath="C:\PROGRAM FILES\GOOGLE\CHROME\APPLICATION" ExeName="chrome.exe" Url="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Event="TYPETEXT" ControlName="Partner Name" Role="editable text" Parent="Product Request" ControlData="hello" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(1)&gt;input[type=text]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[1]/input" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="2">
+        <StepData StepSentence="Click in E-mail Address box.">
+            <AutomationDetails StepSentence="Click in E-mail Address box." WindowTitle="Product Request - Google Chrome" ApplicationPath="C:\PROGRAM FILES\GOOGLE\CHROME\APPLICATION" ExeName="chrome.exe" Url="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Event="Click" ControlName="E-mail Address" Role="editable text" Parent="" ControlData="" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(2)&gt;input[type=email]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[2]/input" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="In the E-mail Address box, enter &quot;hello@123&quot;.">
+            <AutomationDetails StepSentence="In the E-mail Address box, enter &quot;hello@123&quot;." WindowTitle="Product Request - Google Chrome" ApplicationPath="C:\PROGRAM FILES\GOOGLE\CHROME\APPLICATION" ExeName="chrome.exe" Url="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Event="TYPETEXT" ControlName="E-mail Address" Role="editable text" Parent="Product Request" ControlData="hello@123" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(2)&gt;input[type=email]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[2]/input" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="2">
+        <StepData StepSentence="Click in Phone number box.">
+            <AutomationDetails StepSentence="Click in Phone number box." WindowTitle="Product Request - Google Chrome" ApplicationPath="C:\PROGRAM FILES\GOOGLE\CHROME\APPLICATION" ExeName="chrome.exe" Url="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Event="Click" ControlName="Phone number" Role="editable text" Parent="" ControlData="" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(3)&gt;input[type=text]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[3]/input" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="In the Phone number box, enter &quot;9876543210&quot;.">
+            <AutomationDetails StepSentence="In the Phone number box, enter &quot;9876543210&quot;." WindowTitle="Product Request - Google Chrome" ApplicationPath="C:\PROGRAM FILES\GOOGLE\CHROME\APPLICATION" ExeName="chrome.exe" Url="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Event="TYPETEXT" ControlName="Phone number" Role="editable text" Parent="Product Request" ControlData="9876543210" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(3)&gt;input[type=text]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[3]/input" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Select the License only check box.">
+            <AutomationDetails StepSentence="Select the License only check box." WindowTitle="Product Request - Google Chrome" ApplicationPath="C:\PROGRAM FILES\GOOGLE\CHROME\APPLICATION" ExeName="chrome.exe" Url="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Event="Select" ControlName="License only" Role="check box" Parent="" ControlData="1" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(6)&gt;div&gt;div&gt;label&gt;input[type=checkbox]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[6]/div/div[1]/label/input" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Select the Anual maintaince cost check box.">
+            <AutomationDetails StepSentence="Select the Anual maintaince cost check box." WindowTitle="Product Request - Google Chrome" ApplicationPath="C:\PROGRAM FILES\GOOGLE\CHROME\APPLICATION" ExeName="chrome.exe" Url="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" Event="Select" ControlName="Anual maintaince cost" Role="check box" Parent="" ControlData="1" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(6)&gt;div&gt;div&gt;label&gt;input[type=checkbox]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[6]/div/div[2]/label/input" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="2">
+        <StepData StepSentence="Product Request - Google Chrome screen is displayed.">
+            <AutomationDetails StepSentence="Product Request - Google Chrome screen is displayed." WindowTitle="Product Request - Google Chrome" ApplicationPath="C:\PROGRAM FILES\GOOGLE\CHROME\APPLICATION" ExeName="chrome.exe" Url="" Event="WindowActivate" ControlName="" Role="client" Parent="" ControlData="" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+</CaptureInfo>

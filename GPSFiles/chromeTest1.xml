@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><CaptureInfo>
+    <Step StepType="0">
+        <StepData StepSentence="Click Product Request link.">
+            <GeneralDetails DialogName="New Tab" URL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1"/>
+            <ControlDetails ControlName="Product Request" ControlType="30" ControlData="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" AliasName="Product Request" ShortCut=""/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Google Chrome" Event="Click" ControlName="Product Request" Role="link" ControlData="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="In the Partner Name box, enter &quot;Hello&quot;.">
+            <GeneralDetails DialogName="Product Request" URL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1"/>
+            <ControlDetails ControlName="Partner Name" ControlType="42" ControlData="Hello" AliasName="Partner Name" ShortCut=""/>
+            <AutomationDetails ApplicationType="12" ApplicationName="Google Chrome" Event="TYPETEXT" ControlName="Partner Name" Role="editable text" ControlData="Hello" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(1)&gt;input[type=text]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[1]/input" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="2">
+        <StepData StepSentence="Click in E-mail Address box.">
+            <GeneralDetails DialogName="Product Request" URL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1"/>
+            <ControlDetails ControlName="E-mail Address" ControlType="42" ControlData="&#10;          " AliasName="E-mail Address" ShortCut=""/>
+            <AutomationDetails ApplicationType="12" ApplicationName="Google Chrome" Event="Click" ControlName="E-mail Address" Role="editable text" ControlData="" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(2)&gt;input[type=email]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[2]/input" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="In the E-mail Address box, enter &quot;Hello@gmail&quot;.">
+            <GeneralDetails DialogName="Product Request" URL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1"/>
+            <ControlDetails ControlName="E-mail Address" ControlType="42" ControlData="Hello@gmail" AliasName="E-mail Address" ShortCut=""/>
+            <AutomationDetails ApplicationType="12" ApplicationName="Google Chrome" Event="TYPETEXT" ControlName="E-mail Address" Role="editable text" ControlData="Hello@gmail" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(2)&gt;input[type=email]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[2]/input" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="2">
+        <StepData StepSentence="Click in Phone number box.">
+            <GeneralDetails DialogName="Product Request" URL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1"/>
+            <ControlDetails ControlName="Phone number" ControlType="42" ControlData="&#10;          " AliasName="Phone number" ShortCut=""/>
+            <AutomationDetails ApplicationType="12" ApplicationName="Google Chrome" Event="Click" ControlName="Phone number" Role="editable text" ControlData="" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(3)&gt;input[type=text]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[3]/input" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="In the Phone number box, enter &quot;9876543210&quot;.">
+            <GeneralDetails DialogName="Product Request" URL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1"/>
+            <ControlDetails ControlName="Phone number" ControlType="42" ControlData="9876543210" AliasName="Phone number" ShortCut=""/>
+            <AutomationDetails ApplicationType="12" ApplicationName="Google Chrome" Event="TYPETEXT" ControlName="Phone number" Role="editable text" ControlData="9876543210" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(3)&gt;input[type=text]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[3]/input" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Select the License only check box.">
+            <GeneralDetails DialogName="Product Request" URL="https://www.epiplex500.com/qa/LicenseRequest.htm?payment=Credit1"/>
+            <ControlDetails ControlName="License only" ControlType="44" ControlData="1" AliasName="License only" ShortCut=""/>
+            <AutomationDetails ApplicationType="12" ApplicationName="Google Chrome" Event="Select" ControlName="License only" Role="check box" ControlData="1" TagName="" ID="" Title="" CSSSelector="body&gt;form&gt;div&gt;div:nth-child(2)&gt;div&gt;div:nth-child(6)&gt;div&gt;div&gt;label&gt;input[type=checkbox]" XPath="/html/body/form/div[2]/div[2]/div[2]/div[6]/div/div[1]/label/input" Class=""/>
+        </StepData>
+    </Step>
+</CaptureInfo>

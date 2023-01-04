@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><CaptureInfo>
+    <Step StepType="0">
+        <StepData StepSentence="On the menu click Help or press Alt+h.">
+            <GeneralDetails DialogName="Untitled - Notepad" URL=""/>
+            <ControlDetails ControlName="Help" ControlType="12" ControlData="Help" AliasName="Help" ShortCut="Alt+h"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Notepad" Event="Select" ControlName="Help" Role="menu item" ControlData="Help" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="On the menu click About Notepad or press a.">
+            <GeneralDetails DialogName="Untitled - Notepad" URL=""/>
+            <ControlDetails ControlName="About Notepad" ControlType="12" ControlData="About Notepad" AliasName="About Notepad" ShortCut="a"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Notepad" Event="Select" ControlName="About Notepad" Role="menu item" ControlData="About Notepad" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Click OK.">
+            <GeneralDetails DialogName="About Notepad" URL=""/>
+            <ControlDetails ControlName="OK" ControlType="43" ControlData="OK" AliasName="OK" ShortCut=""/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Notepad" Event="Click" ControlName="OK" Role="push button" ControlData="OK" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="On the menu click Format or press Alt+o.">
+            <GeneralDetails DialogName="Untitled - Notepad" URL=""/>
+            <ControlDetails ControlName="Format" ControlType="12" ControlData="Format" AliasName="Format" ShortCut="Alt+o"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Notepad" Event="Select" ControlName="Format" Role="menu item" ControlData="Format" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="On the menu click Font... or press f.">
+            <GeneralDetails DialogName="Untitled - Notepad" URL=""/>
+            <ControlDetails ControlName="Font..." ControlType="12" ControlData="Font..." AliasName="Font..." ShortCut="f"/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Notepad" Event="Select" ControlName="Font..." Role="menu item" ControlData="Font..." TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+    <Step StepType="0">
+        <StepData StepSentence="Click OK.">
+            <GeneralDetails DialogName="Font" URL=""/>
+            <ControlDetails ControlName="OK" ControlType="43" ControlData="OK" AliasName="OK" ShortCut=""/>
+            <AutomationDetails ApplicationType="1" ApplicationName="Notepad" Event="Click" ControlName="OK" Role="push button" ControlData="OK" TagName="" ID="" Title="" CSSSelector="" XPath="" Class=""/>
+        </StepData>
+    </Step>
+</CaptureInfo>
